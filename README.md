@@ -7,3 +7,4 @@
 - 🤔 I’m looking for help with finding a junior position!
 - 💬 Ask me about Python, Flask, Golang basics
 - 📫 How to reach me: valentinebott@gmail.com
+- :ok_hand: I have great taste in hats
