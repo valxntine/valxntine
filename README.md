@@ -2,8 +2,8 @@
 
 ### My name's Valentine, an aspiring Software Developer in London, UK
 
-- 🔭 I’m currently working on Shortn - my Python based URL Shortener
-- 🌱 I’m currently learning JavaScript, moving on to Node shortly!
+- 🔭 I’m currently working on Shortn - my Python based URL Shortener (www.shortn.site)
+- 🌱 I’m currently learning as much as I can! (Java, Python, JS...)
 - 🤔 I’m looking for help with finding a junior position!
 - 💬 Ask me about Python, caps, cooking 👨🏻‍🍳 
 - 📫 How to reach me: valentinebott@gmail.com
