@@ -6,9 +6,9 @@
 <p align="center"> <a href="https://twitter.com/_valxntine" target="blank"><img src="https://img.shields.io/twitter/follow/_valxntine?logo=twitter&style=for-the-badge" alt="_valxntine" /></a> </p>
 <div align='center'>  
   
-  🔭 I’m currently working an NHS project in Python, soon to be working on a project in Go
+  🔭 I’m currently working a greenfield Go project for a payment provider in London
   
-  🌱 I’m currently learning Go 
+  🌱 I’m currently working to improve my Go and Terraform/AWS
   
   🤝 I’m looking for help with nothing right now!  
   
