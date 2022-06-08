@@ -1,5 +1,5 @@
-<h1 align="center">Ahoy 🏴‍☠️ - I'm Valentine</h1>
-<h3 align="center">A Software Engineer based in London.</h3>
+<h1 align="center">Ahoy 🏴‍☠️</h1>
+<h3 align="center">I'm Valentine - A Software Engineer based in London.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=valxntine&label=Profile%20views&color=0e75b6&style=flat" alt="valxntine" /> </p>
 
