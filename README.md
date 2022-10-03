@@ -1,24 +1,9 @@
 <h1 align="center">Ahoy 🏴‍☠️</h1>
-<h3 align="center">I'm Valentine - A Software Engineer based in London.</h3>
+<h3 align="center">I'm Valentine - A Remote Software Engineer Living in the UK.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=valxntine&label=Profile%20views&color=0e75b6&style=flat" alt="valxntine" /> </p>
 
 <p align="center"> <a href="https://twitter.com/_valxntine" target="blank"><img src="https://img.shields.io/twitter/follow/_valxntine?logo=twitter&style=for-the-badge" alt="_valxntine" /></a> </p>
-<div align='center'>  
-  
-  🔭 I’m currently working a greenfield Go project for a payment provider in London
-  
-  🌱 I’m currently working to improve my Go and Terraform/AWS
-  
-  🤝 I’m looking for help with nothing right now!  
-  
-  💬 Ask me about JavaScript, Python, anything!  
-  
-  📫 How to reach me valentinebott@gmail.com  
-  
-  ⚡ Fun fact I have great taste in caps 🧢  
-  </div>
-<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/valxntine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="valxntine" height="30" width="40" /></a>
