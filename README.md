@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=valxntine&label=Profile%20views&color=0e75b6&style=flat" alt="valxntine" /> </p>
 
-<p align="center"> <a href="https://twitter.com/_valxntine" target="blank"><img src="https://img.shields.io/twitter/follow/_valxntine?logo=twitter&style=for-the-badge" alt="_valxntine" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_valxntine" target="blank"><img src="https://img.shields.io/twitter/follow/justvalxntine?logo=twitter&style=for-the-badge" alt="justvalxntine" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/valxntine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="valxntine" height="30" width="40" /></a>
-<a href="https://twitter.com/justvalxntine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_valxntine" height="30" width="40" /></a>
+<a href="https://twitter.com/justvalxntine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justvalxntine" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valentinebott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentinebott" height="30" width="40" /></a>
 <a href="https://instagram.com/developerval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developerval" height="30" width="40" /></a>
 </p>
